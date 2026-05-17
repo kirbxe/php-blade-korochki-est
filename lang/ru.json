@@ -862,5 +862,9 @@
     "Zimbabwe": "Зимбабве",
     "Zip / Postal Code": "Почтовый индекс",
     "Åland Islands": "Аландские острова",
-    "Admin panel": "Админ панель"
+    "Admin panel": "Админ панель",
+    "Middlename": "Отчество", 
+    "Lastname": "Фамилия",
+    "Phone": "Номер телефона",
+    "Already not registered?": "Еще не зарегистрированы?"
 }
